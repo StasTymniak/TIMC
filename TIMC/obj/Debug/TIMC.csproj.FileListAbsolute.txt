@@ -1,0 +1,7 @@
+C:\Users\tymni\source\repos\TIMC\bin\Debug\TIMC.exe.config
+C:\Users\tymni\source\repos\TIMC\bin\Debug\TIMC.exe
+C:\Users\tymni\source\repos\TIMC\bin\Debug\TIMC.pdb
+C:\Users\tymni\source\repos\TIMC\obj\Debug\TIMC.csprojAssemblyReference.cache
+C:\Users\tymni\source\repos\TIMC\obj\Debug\TIMC.csproj.CoreCompileInputs.cache
+C:\Users\tymni\source\repos\TIMC\obj\Debug\TIMC.exe
+C:\Users\tymni\source\repos\TIMC\obj\Debug\TIMC.pdb
