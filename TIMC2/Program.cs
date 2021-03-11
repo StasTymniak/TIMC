@@ -179,7 +179,7 @@ Median:  Value:{median}
 
             double µ3 = 0;
             double µ4 = 0;
-            µ3 = M3 - 2 * M2 * M1 + 2 * Math.Pow(M1, 2);
+            µ3 = M3 - 3 * M2 * M1 + 2 * Math.Pow(M1, 3);
             µ4 = M4 - (4 * M3 * M1) + (6 * M2 * Math.Pow(M1, 2)) - (3 * Math.Pow(M1, 4));
 
             double asymmetry = 0, excess = 0;
